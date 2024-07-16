@@ -18,4 +18,5 @@ Make sure to include the following dependencies in your `pom.xml` file:
 - **Dinner Test (dinner):** Automates selecting dinner details.
 - **Verify Nutrition History (verifyNutration):** Verifies the nutrition history.
 
-  
+ <img src="https://github.com/artsamir/smitch_care/assets/155747719/f85f5d82-6744-41dd-9896-92cf4a67e238" width="300px" height="600px" hspace="20px" /> 
+ <img src="https://github.com/artsamir/smitch_care/assets/155747719/c961eb7e-9bba-4c12-a654-566c86178c44" width="300px" height="600px" /> <br><br>
