@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-15T08:09:08 IST" name="Default suite" finished-at="2024-07-15T08:11:27 IST" duration-ms="139238">
+    <groups>
+    </groups>
+    <test started-at="2024-07-15T08:09:08 IST" name="Default test" finished-at="2024-07-15T08:11:27 IST" duration-ms="139238">
+      <class name="switchcare.SmitchCareTest">
+        <test-method is-config="true" signature="bt()[pri:0, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:09:08 IST" name="bt" finished-at="2024-07-15T08:09:31 IST" duration-ms="23904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="loginPage()[pri:0, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:09:32 IST" name="loginPage" finished-at="2024-07-15T08:09:55 IST" duration-ms="22985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage -->
+        <test-method signature="selectfood()[pri:1, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:09:55 IST" name="selectfood" finished-at="2024-07-15T08:09:56 IST" duration-ms="1825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectfood -->
+        <test-method signature="breakfast()[pri:2, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:09:56 IST" name="breakfast" finished-at="2024-07-15T08:10:17 IST" duration-ms="20723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- breakfast -->
+        <test-method signature="Lunch()[pri:3, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:10:17 IST" name="Lunch" finished-at="2024-07-15T08:10:46 IST" duration-ms="28871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lunch -->
+        <test-method signature="dinner()[pri:4, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:10:46 IST" name="dinner" finished-at="2024-07-15T08:11:09 IST" duration-ms="23029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dinner -->
+        <test-method signature="verifyNutration()[pri:5, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:11:09 IST" name="verifyNutration" finished-at="2024-07-15T08:11:27 IST" duration-ms="17605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNutration -->
+        <test-method is-config="true" signature="closeAppium()[pri:0, instance:switchcare.SmitchCareTest@741a8937]" started-at="2024-07-15T08:11:27 IST" name="closeAppium" finished-at="2024-07-15T08:11:27 IST" duration-ms="130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeAppium -->
+      </class> <!-- switchcare.SmitchCareTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
